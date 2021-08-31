@@ -1,0 +1,30 @@
+﻿Build started 27/08/2012 17:57:34.
+     1>Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\HyMMS.vcxproj" on node 2 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HyMMS.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Compactor.cpp GC.cpp GCTimer.cpp Managed_Object.cpp Tracer.cpp
+         GC.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\unmanageddemo\hymms\gctimer.h(24): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Generating Code...
+         Compiling...
+         Tracer.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\unmanageddemo\hymms\gctimer.h(24): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Managed_Object.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\unmanageddemo\hymms\gctimer.h(24): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         GCTimer.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\unmanageddemo\hymms\gctimer.h(24): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+     1>c:\users\travis\documents\birkbeck\project\code\unmanageddemo\hymms\gctimer.cpp(23): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Compactor.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\unmanageddemo\hymms\gctimer.h(24): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Debug\HyMMS.lib" /NOLOGO Debug\Allocator.obj
+         Debug\Compactor.obj
+         Debug\GC.obj
+         Debug\GCTimer.obj
+         Debug\Managed_Object.obj
+         Debug\stdafx.obj
+         Debug\Tracer.obj
+         HyMMS.vcxproj -> C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Debug\HyMMS.lib
+     1>Done Building Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\HyMMS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.91

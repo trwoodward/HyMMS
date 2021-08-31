@@ -1,0 +1,65 @@
+﻿Build started 17/09/2012 02:16:50.
+     1>Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\UnmanagedDemo\UnmanagedDemo.vcxproj" on node 3 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\Box2D /I..\HyMMS /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\UnmanagedDemo.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ContentManager.cpp Demo.cpp DemoButton.cpp DemoContactListener.cpp DemoDebugInfo.cpp DemoRand.cpp Game.cpp GameObject.cpp PerfInfo.cpp PushButton.cpp SpriteBatch.cpp Texture2D.cpp ToggleButton.cpp UnmanagedDemo.cpp
+         ContentManager.cpp
+         Demo.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+     1>Demo.cpp(198): warning C4244: 'argument' : conversion from 'double' to 'float32', possible loss of data
+     1>Demo.cpp(348): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         DemoButton.cpp
+         DemoContactListener.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         DemoDebugInfo.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         DemoRand.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Game.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         GameObject.cpp
+         PerfInfo.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+     1>PerfInfo.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+         PushButton.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         SpriteBatch.cpp
+         Texture2D.cpp
+     1>Texture2D.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+         ToggleButton.cpp
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         UnmanagedDemo.cpp
+     1>UnmanagedDemo.cpp(2): warning C4603: 'WIN32_EXTRA_LEAN' : macro is not defined or definition is different after precompiled header use
+                 Add macro to precompiled header instead of defining here
+                 UnmanagedDemo.cpp(4) : use of precompiled header
+     1>C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\HyMMS\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\UnmanagedDemo.exe" /INCREMENTAL:NO /NOLOGO OpenGL32.lib GLU32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\UnmanagedDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\UnmanagedDemo.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\UnmanagedDemo.lib" /MACHINE:X86 /SAFESEH Release\UnmanagedDemo.res
+         Release\ContentManager.obj
+         Release\Demo.obj
+         Release\DemoButton.obj
+         Release\DemoColour.obj
+         Release\DemoDebugInfo.obj
+         Release\DemoRand.obj
+         Release\DemoRectangle.obj
+         Release\Game.obj
+         Release\GameObject.obj
+         Release\InputManager.obj
+         Release\PerfInfo.obj
+         Release\PushButton.obj
+         Release\SpriteBatch.obj
+         Release\stdafx.obj
+         Release\Texture2D.obj
+         Release\ToggleButton.obj
+         Release\DemoContactListener.obj
+         Release\UnmanagedDemo.obj
+         Release\WindowsInputManager.obj
+         C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\Box2D.lib
+         C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\HyMMS.lib
+         Generating code
+         Finished generating code
+         UnmanagedDemo.vcxproj -> C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\UnmanagedDemo.exe
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\mt.exe /nologo /verbose /outputresource:"C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Release\UnmanagedDemo.exe;#1" /manifest Release\UnmanagedDemo.exe.intermediate.manifest
+     1>Done Building Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\UnmanagedDemo\UnmanagedDemo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.53

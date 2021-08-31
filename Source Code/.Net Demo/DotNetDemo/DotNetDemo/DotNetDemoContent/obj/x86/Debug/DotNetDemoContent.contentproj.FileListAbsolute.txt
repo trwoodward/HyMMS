@@ -1,0 +1,1 @@
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemoContent\obj\x86\Debug\DotNetDemoContent.contentprojResolveAssemblyReference.cache

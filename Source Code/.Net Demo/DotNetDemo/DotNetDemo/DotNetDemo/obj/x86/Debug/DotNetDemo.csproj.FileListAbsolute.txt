@@ -1,0 +1,13 @@
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\DotNetDemo.exe
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\DotNetDemo.pdb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Box2D.XNA.pdb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\obj\x86\Debug\DotNetDemo.csprojResolveAssemblyReference.cache
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\obj\x86\Debug\DotNetDemo.exe
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\obj\x86\Debug\DotNetDemo.pdb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Content\BoundaryTex.xnb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Content\BoxTex.xnb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Content\DestroyButtonPressed.xnb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Content\DestroyButtonReleased.xnb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Content\SpawnButtonPressed.xnb
+c:\users\travis\documents\visual studio 2010\Projects\DotNetDemo\DotNetDemo\DotNetDemo\bin\x86\Debug\Content\SpawnButtonReleased.xnb

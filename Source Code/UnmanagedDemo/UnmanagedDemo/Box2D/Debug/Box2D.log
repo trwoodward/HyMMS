@@ -1,0 +1,53 @@
+﻿Build started 14/08/2012 20:36:10.
+     1>Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Box2D\Box2D.vcxproj" on node 2 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Debug\Box2D.lib" /NOLOGO Debug\b2BroadPhase.obj
+         Debug\b2CollideCircle.obj
+         Debug\b2CollideEdge.obj
+         Debug\b2CollidePolygon.obj
+         Debug\b2Collision.obj
+         Debug\b2Distance.obj
+         Debug\b2DynamicTree.obj
+         Debug\b2TimeOfImpact.obj
+         Debug\b2ChainShape.obj
+         Debug\b2CircleShape.obj
+         Debug\b2EdgeShape.obj
+         Debug\b2PolygonShape.obj
+         Debug\b2BlockAllocator.obj
+         Debug\b2Draw.obj
+         Debug\b2Math.obj
+         Debug\b2Settings.obj
+         Debug\b2StackAllocator.obj
+         Debug\b2Timer.obj
+         Debug\b2Body.obj
+         Debug\b2ContactManager.obj
+         Debug\b2Fixture.obj
+         Debug\b2Island.obj
+         Debug\b2World.obj
+         Debug\b2WorldCallbacks.obj
+         Debug\b2ChainAndCircleContact.obj
+         Debug\b2ChainAndPolygonContact.obj
+         Debug\b2CircleContact.obj
+         Debug\b2Contact.obj
+         Debug\b2ContactSolver.obj
+         Debug\b2EdgeAndCircleContact.obj
+         Debug\b2EdgeAndPolygonContact.obj
+         Debug\b2PolygonAndCircleContact.obj
+         Debug\b2PolygonContact.obj
+         Debug\b2DistanceJoint.obj
+         Debug\b2FrictionJoint.obj
+         Debug\b2GearJoint.obj
+         Debug\b2Joint.obj
+         Debug\b2MouseJoint.obj
+         Debug\b2PrismaticJoint.obj
+         Debug\b2PulleyJoint.obj
+         Debug\b2RevoluteJoint.obj
+         Debug\b2RopeJoint.obj
+         Debug\b2WeldJoint.obj
+         Debug\b2WheelJoint.obj
+         Debug\b2Rope.obj
+         Box2D.vcxproj -> C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Debug\Box2D.lib
+     1>Done Building Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\UnmanagedDemo\Box2D\Box2D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.58

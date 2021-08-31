@@ -1,0 +1,33 @@
+﻿Build started 17/09/2012 02:42:27.
+     1>Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\ManagedDemo\ManagedDemo.vcxproj" on node 3 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\ManagedDemo.exe" /INCREMENTAL:NO /NOLOGO OpenGL32.lib GLU32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ManagedDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\ManagedDemo.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\ManagedDemo.lib" /MACHINE:X86 /SAFESEH Release\ManagedDemo.res
+         Release\ContentManager.obj
+         Release\Demo.obj
+         Release\DemoButton.obj
+         Release\DemoColour.obj
+         Release\DemoContactListener.obj
+         Release\DemoDebugInfo.obj
+         Release\DemoRand.obj
+         Release\DemoRectangle.obj
+         Release\Game.obj
+         Release\GameObject.obj
+         Release\InputManager.obj
+         Release\ManagedDemo.obj
+         Release\PerfInfo.obj
+         Release\PushButton.obj
+         Release\SpriteBatch.obj
+         Release\stdafx.obj
+         Release\Texture2D.obj
+         Release\ToggleButton.obj
+         Release\WindowsInputManager.obj
+         C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\Box2D.lib
+         C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\HyMMS.lib
+         Generating code
+         Finished generating code
+         ManagedDemo.vcxproj -> C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\ManagedDemo.exe
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\mt.exe /nologo /verbose /outputresource:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\ManagedDemo.exe;#1" /manifest Release\ManagedDemo.exe.intermediate.manifest
+     1>Done Building Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\ManagedDemo\ManagedDemo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.01

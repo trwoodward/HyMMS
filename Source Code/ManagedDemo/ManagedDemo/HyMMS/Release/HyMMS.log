@@ -1,0 +1,30 @@
+﻿Build started 17/09/2012 02:42:21.
+     1>Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\HyMMS\HyMMS.vcxproj" on node 3 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\HyMMS.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\HyMMS.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Allocator.cpp Compactor.cpp GC.cpp GCTimer.cpp Managed_Object.cpp Tracer.cpp
+         Allocator.cpp
+         Compactor.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\manageddemo\hymms\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         GC.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\manageddemo\hymms\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         GCTimer.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\manageddemo\hymms\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+     1>GCTimer.cpp(23): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Managed_Object.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\manageddemo\hymms\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         Tracer.cpp
+     1>c:\users\travis\documents\birkbeck\project\code\manageddemo\hymms\GCTimer.h(27): warning C4244: '=' : conversion from 'LONGLONG' to 'double', possible loss of data
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\HyMMS.lib" /NOLOGO /LTCG Release\Allocator.obj
+         Release\Compactor.obj
+         Release\GC.obj
+         Release\GCTimer.obj
+         Release\Managed_Object.obj
+         Release\stdafx.obj
+         Release\Tracer.obj
+         HyMMS.vcxproj -> C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\Release\HyMMS.lib
+     1>Done Building Project "C:\Users\Travis\Documents\Birkbeck\Project\Code\ManagedDemo\HyMMS\HyMMS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.36
